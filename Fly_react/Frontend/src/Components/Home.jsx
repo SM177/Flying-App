@@ -1,6 +1,8 @@
 import React, {useEffect} from 'react'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
+import fly from '../../Pic/1.mp4'
+
 const Home = () => {
   // UseEffect to set animation duration
   useEffect(()=>{
@@ -16,7 +18,7 @@ const Home = () => {
 
       <div data-aos='fade-down' data-aos-duration='2500' className="homeImages flex">
         <div className="videoDiv">
-          <video className='video' autoPlay muted loop src="https://www.shutterstock.com/shutterstock/videos/3368468/preview/stock-footage-plane-flight-against-clouds.webm">
+          <video className='video' autoPlay muted loop src={fly}>
 
           </video>
         </div>

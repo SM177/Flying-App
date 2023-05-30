@@ -46,7 +46,7 @@ const Support = () => {
           </div>
 
           <div data-aos='fade-down' data-aos-duration='2500' className="imgDiv">
-            <img src="https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+            <img src="https://images.unsplash.com/photo-1545922016-87c93aaca2ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80" alt="" />
           </div>
         </div>
       </div>

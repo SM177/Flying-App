@@ -269,6 +269,7 @@ span:hover {
 
 
 
+
 /* Home section styling */
 
 .home {
@@ -803,6 +804,7 @@ li a:hover {
 /* MEDIA SCREEN STYLING */
 
 @media screen and (min-width: 480px) {
+
 
   /* Home section styling */
   .home {

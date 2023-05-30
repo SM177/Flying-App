@@ -12,7 +12,7 @@ const Lounge = () => {
     <div className='lounge container section'>
       <div className="sectionContainer grid">
         <div data-aos='fade-left' data-aos-duration='2500' className="imgDiv">
-          <img src="https://images.pexels.com/photos/4737902/pexels-photo-4737902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+          <img src="https://images.unsplash.com/photo-1540339832862-474599807836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" alt="" />
         </div>
 
         <div className="textDiv">
